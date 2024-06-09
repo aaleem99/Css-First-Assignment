@@ -1,0 +1,74 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+#main{
+    width: 100%;
+    background-color: maroon;
+    color: bisque;
+}
+#nev{
+    border-spacing: 0px;
+    width: 100%;    
+}
+h1{
+    text-align: center;
+    padding: 5px;
+}
+.data{
+    text-align: center;
+    background-color: bisque;
+    color: maroon;
+     
+}
+table td{
+    border: none;
+    margin: 0;
+    padding: 0;
+    height: 35px;
+    width: 100px;
+}
+.Home{
+    background-color:maroon;
+    color: bisque;
+}
+.Fruits{
+    background-color:maroon;
+    color: bisque;
+}
+.Grocery{
+    background-color:maroon;
+    color: bisque;
+}
+.About{
+    background-color:maroon;
+    color: bisque;
+}
+.Contact{
+    background-color:maroon;
+    color: bisque;
+}
+ .menu1{
+    width: 80%;
+    text-align: center;
+    border-spacing: 2px;
+    border: 1px white;
+ }
+ .item{
+    border: 1px solid white;
+    background-color:maroon;
+    text-decoration: none;
+ }
+
+ ul li{
+    font-size: 30px;
+    width: 60%;
+    padding: 10px;
+ }
+ a{
+    text-decoration: none;
+ }
+ p{
+    color: maroon;
+ }
